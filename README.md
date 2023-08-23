@@ -1,5 +1,5 @@
 **Acknowledgement:** 
-*Aresh Dadlani, Richard O. Afolabi, Hyoyoung Jung, Khosrow Sohraby, Kiseon Kim, "Deterministic Models in Epidemiology: From Modeling to Implementation," Technical Report, CSNL, EECS, GIST, March 2013.*
+Aresh Dadlani, Richard O. Afolabi, Hyoyoung Jung, Khosrow Sohraby, Kiseon Kim, *"Deterministic Models in Epidemiology: From Modeling to Implementation,"* Technical Report, CSNL, EECS, GIST, March 2013.
 
 **You can find the paper on arXiv ([link](https://doi.org/10.48550/arXiv.2004.04675)).**
 
